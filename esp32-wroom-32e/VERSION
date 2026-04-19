@@ -1,0 +1,5 @@
+version:     esp32-v3-esp32-wroom-dev-4-g2366b64+20260419.080340
+published:   2026-04-19T08:09:38Z
+source:      https://github.com/dunlapbs/sprinklr  (branch: esp32-wroom, commit: 2366b64)
+app_bin:     firmware.bin       (size: 1133696 bytes, sha256: 414924d11ad2ef405208ed8ae9bdf3281d964032df08a66d5297a70ecd69b1f5)
+full_bin:    firmware-full.bin  (size: 1199152 bytes, sha256: f17f624314f7bc9a1923ba9f1b37f6f5fc31ababc79a0e1e8b6a1be3be91f7b8)
